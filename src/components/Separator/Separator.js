@@ -1,6 +1,7 @@
 import React from "react";
 import { Flex } from "@chakra-ui/react";
 
+
 export function HSeparator(props) {
   const { variant, children, ...rest } = props;
   return (
